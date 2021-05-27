@@ -8,5 +8,17 @@ namespace GitHubTest
 {
     public class GitHubTest
     {
+        public void main()
+        {
+            GitHubTest classObject = new GitHubTest();
+
+            classObject.testMethod();
+        }
+        public void testMethod ()
+        {
+
+            string message = "Hello World";
+ 
+        }
     }
 }
