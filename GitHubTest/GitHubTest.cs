@@ -17,7 +17,7 @@ namespace GitHubTest
         public void testMethod ()
         {
 
-            string message = "Hello World";
+            string message = "Hello World. How are you ?";
  
         }
     }
