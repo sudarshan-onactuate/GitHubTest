@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Additional.cs" />
     <Compile Include="GitHubTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
